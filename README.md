@@ -1,6 +1,5 @@
 # Medi Box - Medication Management System
 
-![Medi Box System](medi-box-screenshot.jpg)
 
 ## Table of Contents
 - [Introduction](#introduction)
