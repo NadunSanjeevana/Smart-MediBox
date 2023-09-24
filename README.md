@@ -33,7 +33,7 @@ The Medi Box project relies on the following technologies and tools:
 - **EasyEDA:** Design and PCB layout tool for creating custom circuits.
 - **Node-Red:** A flow-based development tool for IoT applications.
 - **MQTT:** Lightweight messaging protocol for communication between components.
-- **[Other Technologies]:** Mention any additional technologies or components used in your project.
+
 
 ## Project Overview
 
@@ -54,7 +54,6 @@ The software components of the Medi Box project include:
 
 - **Arduino Firmware:** The firmware running on the ESP32 microcontroller.
 - **Node-Red Flows:** Node-Red flows for medication scheduling and notifications.
-- **[Other Software Components]:** Mention any additional software components used in your project.
 
 ## Usage
 
